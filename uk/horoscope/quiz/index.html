@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="uk" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="referrer" content="no-referrer">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self'; base-uri 'self'; form-action 'self';">
+<title>Вікторина: який ти знак? | Furlore</title>
+<meta name="description" content="Answer 10 fun questions to find out which fursona archetype matches you — by zodiac sign, species, and personality. Free, no sign-up.">
+
+<link rel="canonical" href="https://furlore.github.io/uk/horoscope/quiz/">
+<link rel="alternate" hreflang="en" href="https://furlore.github.io/horoscope/quiz">
+<link rel="alternate" hreflang="uk" href="https://furlore.github.io/uk/horoscope/quiz">
+<link rel="alternate" hreflang="de" href="https://furlore.github.io/de/horoscope/quiz">
+<link rel="alternate" hreflang="fr" href="https://furlore.github.io/fr/horoscope/quiz">
+<link rel="alternate" hreflang="x-default" href="https://furlore.github.io/horoscope/quiz">
+
+
+
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="Вікторина: який ти знак?">
+<meta property="og:description" content="Answer 10 fun questions to find out which fursona archetype matches you — by zodiac sign, species, and personality. Free, no sign-up.">
+<meta property="og:url" content="https://furlore.github.io/uk/horoscope/quiz/">
+<meta property="og:image" content="https://furlore.github.io/assets/img/og-default.png">
+<meta name="twitter:card" content="summary_large_image">
+
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/img/brand-mark.png">
+<link rel="stylesheet" href="/assets/css/tokens.css">
+<link rel="stylesheet" href="/assets/css/main.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Перейти до змісту</a>
+
+<header class="site-header">
+  <div class="container">
+    <nav class="nav">
+      <a href="../../" class="brand"><span class="brand-mark" aria-hidden="true"></span><span>Furlore</span></a>
+      <div class="nav-links">
+        <a href="/uk/">Головна</a>
+        <a href="/uk/horoscope/" aria-current="page">Гороскоп</a>
+        <a href="/uk/science/">Наука</a>
+        <a href="/uk/culture/">Культура</a>
+        <a href="/uk/community/">Спільнота</a>
+        <a href="/uk/events/">Події</a>
+        <a href="/uk/blog/">Блог</a>
+      </div>
+      <div class="nav-actions">
+        <button class="icon-btn" id="lang-toggle" type="button" aria-label="Мова">🌐</button>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+<div class="container">
+  <nav class="breadcrumbs" aria-label="Breadcrumb"><ol>
+    <li><a href="/uk/">Головна</a></li>
+    <li><a href="/uk/horoscope/">Фуррі-гороскоп</a></li>
+    <li aria-current="page">Вікторина: який ти знак?</li>
+  </ol></nav>
+</div>
+
+
+<div class="container"><p class="small dim" style="margin:var(--s-2) 0 0"><a lang="en" href="/horoscope/quiz/">Англійською →</a></p></div>
+<section class="section-sm">
+  <div class="container-narrow">
+    <div class="top-cta-bar" role="complementary" aria-label="Join the community">
+  <p class="top-cta-text">🧡 Приєднуйся до фуррі-спільноти — знаходь друзів і свою людину.</p>
+  <a href="/uk/dating/" class="btn btn-accent btn-sm" data-affiliate="dating" data-placement="top-cta" data-source="top-cta-uk">
+    Ти з нами? 🧡
+  </a>
+</div>
+
+      <h1>🎲 Which fursona are you?</h1>
+    <p class="lead">Answer 10 lighthearted questions and we'll match you to your zodiac fursona archetype — complete with a species, a vibe, and your best matches. It takes about 2 minutes.</p>
+
+    <div class="callout callout-warn">
+      <div class="callout-title">🎭 Just for fun</div>
+      <p style="margin:0">This is an entertainment quiz, not a scientific personality test. For real psychology and identity research, see <a href="/uk/science/psychology/">the science of fursonas</a>.</p>
+    </div>
+
+    <div id="quiz" class="mt-6">
+      <div class="quiz-progress"><div class="quiz-progress-bar"></div></div>
+      <div class="quiz-q"></div>
+      <div class="quiz-options"></div>
+    </div>
+
+    <div id="quiz-result" class="quiz-result">
+      <div class="card center" style="padding:var(--s-8)">
+        <div style="font-size:4rem" aria-hidden="true">🐾</div>
+        <h2 style="margin-top:var(--s-3)">Your fursona archetype is…</h2>
+        <div data-result-sign style="font-size:2.5rem;font-weight:800;background:linear-gradient(135deg,var(--brand-2),var(--accent));-webkit-background-clip:text;background-clip:text;color:transparent;margin-bottom:var(--s-4)"></div>
+        <p>Your archetype comes with a species, a vibe, and a whole sign page with traits and compatibility matches.</p>
+        <div class="flex" style="justify-content:center;gap:var(--s-3);flex-wrap:wrap;margin-top:var(--s-5)">
+          <a class="btn btn-primary" data-result-link href="#">Read your full sign →</a>
+          <button class="btn btn-ghost" type="button" onclick="location.reload()">Retry quiz</button>
+        </div>
+
+        <div class="cta-block mt-6" style="padding:var(--s-6)">
+          <h3 style="font-size:1.2rem">Curious who else is out there?</h3>
+          <p>Share your result and then see who's online in the community.</p>
+          <a href="#" class="btn btn-accent" data-affiliate="dating" data-placement="quiz-result" data-source="horoscope-quiz">Meet furries online →</a>
+          <p class="disclosure-note">18+ · Affiliate link</p>
+        </div>
+      </div>
+    </div>
+
+    <p class="small dim center mt-6">After the quiz, we recommend reading <a href="/uk/culture/fursona/">what a fursona actually is</a> — a proper guide if you're thinking about creating yours.</p>
+  </div>
+</section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container"><div class="footer-grid">
+    <div class="footer-brand">
+      <a href="../../" class="brand"><span class="brand-mark" aria-hidden="true"></span><span>Furlore</span></a>
+      <p class="muted small" style="margin-top:var(--s-3)">Науково обґрунтовано, орієнтовано на спільноту.</p>
+    </div>
+    <div class="footer-col"><h4>Фуррі-наука</h4><ul>
+      <li><a href="../../science/who-are-furries/">Хто такі фуррі</a></li>
+      <li><a href="../../science/myths/">Міфи</a></li>
+      <li><a href="../../science/demographics/">Демографія</a></li>
+      <li><a href="../../science/psychology/">Психологія</a></li>
+      <li><a href="../../science/sources/">Джерела</a></li>
+    </ul></div>
+    <div class="footer-col"><h4>Розділи</h4><ul>
+      <li><a href="../../culture/">Культура</a></li>
+      <li><a href="../../culture/fursona/">Фурсони</a></li>
+      <li><a href="../../community/">Спільнота</a></li>
+      <li><a href="../../events/">Події</a></li>
+      <li><a href="../../blog/">Блог</a></li>
+    </ul></div>
+    <div class="footer-col"><h4>Про нас</h4><ul>
+      <li><a href="../../about/">Про Furlore</a></li>
+      <li><a href="../../privacy/">Приватність</a></li>
+      <li><a href="../../terms/">Умови</a></li>
+      <li><a href="../../disclosure/">Реклама</a></li>
+    </ul></div>
+  </div>
+  <div class="footer-bottom">
+    <div>© 2026 Furlore. Оновлюється щокварталу.</div>
+    <div class="flex" style="gap:var(--s-5)">
+      <a href="../../privacy/">Приватність</a>
+      <a href="../../terms/">Умови</a>
+      <a href="../../disclosure/">Реклама</a>
+    </div>
+  </div></div>
+</footer>
+
+<script src="/assets/js/theme.js" defer></script>
+<script src="/assets/js/affiliate.js" defer></script>
+</body>
+</html>

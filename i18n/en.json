@@ -1,0 +1,53 @@
+{
+  "nav": {
+    "home": "Home", "about": "About", "horoscope": "Horoscope", "science": "Science",
+    "culture": "Culture", "community": "Community", "events": "Events", "blog": "Blog",
+    "dating": "Dating"
+  },
+  "hero": {
+    "title_start": "Furries are ",
+    "title_highlight": "identity,",
+    "title_mid": " science, culture, connection,",
+    "title_end": " and you.",
+    "lead": "Furlore is a space for furries and friends. We share knowledge, support each other, create, find friends, and love each other for who we are.",
+    "cta_join": "Join the community",
+    "cta_more": "Learn more",
+    "safe_note": "Furlore is an LGBTQ+ friendly space. You matter. You are safe. You are home."
+  },
+  "themes": {
+    "heading": "Themes that bring us together",
+    "identity": {"title": "Identity", "desc": "Exploring who we are. Fursonas and personhood, parts of a whole.", "more": "Read more"},
+    "science":  {"title": "Furscience", "desc": "What peer-reviewed research actually tells us about the fandom.", "more": "Read more"},
+    "culture":  {"title": "Culture", "desc": "Art, music, literature, the fandom and furry history.", "more": "Read more"},
+    "community":{"title": "Community", "desc": "How we interact, support each other and build the community.", "more": "Read more"},
+    "dating":   {"title": "Dating & Friends", "desc": "Finding friends, partners and kindred spirits in the fandom.", "more": "Read more"}
+  },
+  "community_card": {
+    "title": "Community at the center",
+    "text": "We are diverse. We are creative. We are furries. And together we make the world better.",
+    "more": "Our community"
+  },
+  "events": {
+    "title": "Upcoming events",
+    "online": "Online", "offline": "Offline",
+    "all": "All events"
+  },
+  "blog": {
+    "title": "Fresh from the blog",
+    "all": "All articles"
+  },
+  "footer": {
+    "motto": "Be yourself. Respect others. Stay curious. Together — we are more.",
+    "contact": "Contact us",
+    "inclusion": "We stand for inclusivity",
+    "inclusion_text": "Furlore supports LGBTQ+ rights and strives to build a safe space for everyone.",
+    "copyright": "© 2024 Furlore. All rights reserved.",
+    "privacy": "Privacy Policy", "terms": "Terms of Use", "disclosure": "Affiliate Disclosure"
+  },
+  "cta": {
+    "dating_title": "Ready to meet furries like you?",
+    "dating_text": "Connect with local and online furries who share your interests. Safe, friendly, and furry-first.",
+    "dating_btn": "See who's online now",
+    "disclosure": "Affiliate link. We may earn a commission when you sign up — this doesn't affect your experience and helps us keep the site running."
+  }
+}

@@ -1,0 +1,45 @@
+url,primary_query_en,page_type,priority_en,priority_uk,status
+/,home/nav,hub,1,1,live
+/dating/,furry dating,money,1,1,live
+/dating/safety/,furry dating safety,money,1,1,stub
+/dating/how-to-start/,how to start dating as furry,money,1,2,stub
+/dating/apps-compare/,furry dating apps sites,money,1,2,stub
+/dating/profile-tips/,furry dating profile,money,1,2,stub
+/dating/first-date/,furry first date,money,2,2,stub
+/dating/long-distance/,furry long distance,money,2,3,stub
+/dating/faq/,furry dating faq,money,2,2,stub
+/horoscope/,furry horoscope,bridge,1,1,live
+/horoscope/quiz/,what is my fursona quiz,bridge,1,1,live
+/horoscope/compatibility/,furry zodiac compatibility,bridge,1,1,live
+/horoscope/daily/,furry daily horoscope,bridge,2,2,stub
+/horoscope/weekly/,furry weekly horoscope,bridge,3,3,stub
+/horoscope/how-it-works/,how horoscope works,bridge,3,3,stub
+/horoscope/{sign}/,furry [sign] fursona,bridge,1×12,1×12,stub
+/science/,furscience,trust,1,2,live
+/science/who-are-furries/,who are furries,trust,1,1,live
+/science/myths/,furry myths,trust,1,1,live
+/science/psychology/,furry psychology fursona,trust,1,2,stub
+/science/demographics/,furry demographics statistics,trust,1,2,stub
+/science/community-health/,furry mental health,trust,1,2,stub
+/science/lgbt-in-fandom/,furries lgbt statistics,trust,1,2,stub
+/science/sources/,furscience sources bibliography,trust,2,3,stub
+/science/for-parents/,my kid is a furry,trust,1,1,stub
+/science/for-media/,furry journalist guide,trust,2,2,stub
+/culture/,furry culture,bridge,1,1,live
+/culture/fursona/,what is a fursona,bridge,1,1,live
+/culture/fursuit/,fursuit cost types,bridge,1,2,live
+/culture/art/,furry art commissions,bridge,2,2,live
+/culture/glossary/,furry terms glossary,bridge,2,2,live
+/culture/history/,furry fandom history,bridge,2,2,live
+/culture/fursona/species/,fursona species guide,bridge,2,2,stub
+/culture/fursona/name/,fursona names,bridge,3,3,stub
+/culture/fursuit/makers/,fursuit makers how choose,bridge,2,2,stub
+/culture/ukraine/,фуррі спільнота україна,bridge,3,1,stub
+/community/,furry community,bridge,1,1,live
+/community/find-friends/,how meet furries friends,money,1,1,live
+/community/online/,furry discord telegram online,money,1,1,live
+/community/irl/,furry meetups conventions,bridge,2,2,live
+/community/safety/,furry community safety,trust,1,1,live
+/events/,furry conventions events,bridge,2,2,live
+/blog/,furry blog,bridge,2,2,live
+/about/,about furlore,trust,3,3,live

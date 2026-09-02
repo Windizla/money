@@ -1,0 +1,14 @@
+[
+  {"slug":"aries",       "name_en":"Aries",       "name_uk":"Овен",      "glyph":"♈", "dates":"Mar 21 – Apr 19", "species":"Wolf",      "trait":"Bold pack leader",     "color":"#ff6b8b"},
+  {"slug":"taurus",      "name_en":"Taurus",      "name_uk":"Телец",     "glyph":"♉", "dates":"Apr 20 – May 20", "species":"Bear",      "trait":"Loyal protector",      "color":"#5ee7c8"},
+  {"slug":"gemini",      "name_en":"Gemini",      "name_uk":"Близнецы",  "glyph":"♊", "dates":"May 21 – Jun 20", "species":"Fox",       "trait":"Curious trickster",    "color":"#ffe066"},
+  {"slug":"cancer",      "name_en":"Cancer",      "name_uk":"Рак",       "glyph":"♋", "dates":"Jun 21 – Jul 22", "species":"Otter",     "trait":"Gentle caregiver",     "color":"#6bb8ff"},
+  {"slug":"leo",         "name_en":"Leo",         "name_uk":"Лев",       "glyph":"♌", "dates":"Jul 23 – Aug 22", "species":"Lion",      "trait":"Charismatic heart",     "color":"#ffa85c"},
+  {"slug":"virgo",       "name_en":"Virgo",       "name_uk":"Дева",      "glyph":"♍", "dates":"Aug 23 – Sep 22", "species":"Deer",      "trait":"Thoughtful artisan",    "color":"#a78bfa"},
+  {"slug":"libra",       "name_en":"Libra",       "name_uk":"Весы",      "glyph":"♎", "dates":"Sep 23 – Oct 22", "species":"Rabbit",    "trait":"Harmonious peacemaker", "color":"#ff7eb3"},
+  {"slug":"scorpio",     "name_en":"Scorpio",     "name_uk":"Скорпион",  "glyph":"♏", "dates":"Oct 23 – Nov 21", "species":"Panther",   "trait":"Intense mystery",      "color":"#b66bff"},
+  {"slug":"sagittarius", "name_en":"Sagittarius", "name_uk":"Стрелец",   "glyph":"♐", "dates":"Nov 22 – Dec 21", "species":"Husky",     "trait":"Adventurous wanderer",  "color":"#ffb86b"},
+  {"slug":"capricorn",   "name_en":"Capricorn",   "name_uk":"Козерог",   "glyph":"♑", "dates":"Dec 22 – Jan 19", "species":"Dragon",    "trait":"Ambitious builder",    "color":"#4c35b5"},
+  {"slug":"aquarius",    "name_en":"Aquarius",    "name_uk":"Водолей",   "glyph":"♒", "dates":"Jan 20 – Feb 18", "species":"Raccoon",   "trait":"Quirky visionary",     "color":"#5ee7c8"},
+  {"slug":"pisces",      "name_en":"Pisces",      "name_uk":"Рыбы",      "glyph":"♓", "dates":"Feb 19 – Mar 20", "species":"Cat",       "trait":"Dreamy empath",         "color":"#6bb8ff"}
+]

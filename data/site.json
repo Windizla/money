@@ -1,0 +1,31 @@
+{
+  "name": "Furlore",
+  "tagline": "Сообщество. Идентичность. Вместе.",
+  "tagline_en": "Community. Identity. Together.",
+  "SITE_URL": "https://furlore.github.io",
+  "default_lang": "en",
+  "languages": ["en", "uk"],
+  "email": "{{EMAIL}}",
+  "author": {
+    "name": "{{AUTHOR_NAME}}",
+    "bio": "{{AUTHOR_BIO}}"
+  },
+  "nav": [
+    {"label_en": "Home",      "label_uk": "Главная",    "href": "/"},
+    {"label_en": "About",     "label_uk": "О нас",      "href": "/about/"},
+    {"label_en": "Horoscope", "label_uk": "Гороскоп",   "href": "/horoscope/"},
+    {"label_en": "Science",   "label_uk": "Наука",      "href": "/science/"},
+    {"label_en": "Culture",   "label_uk": "Культура",   "href": "/culture/"},
+    {"label_en": "Community", "label_uk": "Сообщество", "href": "/community/"},
+    {"label_en": "Events",    "label_uk": "События",    "href": "/events/"},
+    {"label_en": "Dating",    "label_uk": "Знакомства", "href": "/dating/"}
+  ],
+  "socials": [
+    {"label": "Discord",  "icon": "🎮", "href": "#"},
+    {"label": "Telegram", "icon": "✈️", "href": "#"},
+    {"label": "VK",       "icon": "𝖵",  "href": "#"},
+    {"label": "Twitter",  "icon": "𝕏",  "href": "#"},
+    {"label": "Instagram","icon": "📷", "href": "#"},
+    {"label": "Email",    "icon": "✉️", "href": "mailto:{{EMAIL}}"}
+  ]
+}

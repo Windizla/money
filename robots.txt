@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /go/
+Disallow: /search/
+Sitemap: https://furlore.github.io/sitemap.xml
